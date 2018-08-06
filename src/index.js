@@ -1,6 +1,6 @@
 'use strict';
 
-import {sayHello} from "../say-hello";
+
 
 const $ = require('jquery');//this accesses jquery through main.js
 
